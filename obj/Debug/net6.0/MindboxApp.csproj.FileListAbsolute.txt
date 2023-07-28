@@ -1,0 +1,15 @@
+D:\source\repos\MindboxApp\bin\Debug\net6.0\MindboxApp.exe
+D:\source\repos\MindboxApp\bin\Debug\net6.0\MindboxApp.deps.json
+D:\source\repos\MindboxApp\bin\Debug\net6.0\MindboxApp.runtimeconfig.json
+D:\source\repos\MindboxApp\bin\Debug\net6.0\MindboxApp.dll
+D:\source\repos\MindboxApp\bin\Debug\net6.0\MindboxApp.pdb
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.csproj.AssemblyReference.cache
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.AssemblyInfoInputs.cache
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.AssemblyInfo.cs
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.csproj.CoreCompileInputs.cache
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.dll
+D:\source\repos\MindboxApp\obj\Debug\net6.0\refint\MindboxApp.dll
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.pdb
+D:\source\repos\MindboxApp\obj\Debug\net6.0\MindboxApp.genruntimeconfig.cache
+D:\source\repos\MindboxApp\obj\Debug\net6.0\ref\MindboxApp.dll
